@@ -43,11 +43,13 @@
 <ul>
   <li>
     <a href="https://medium.com/@fahmisyahya1/bahasa-pemrograman-java-hello-world-d48d06576598">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
       Bahasa Pemrograman Java — “Hello, World!”
     </a>
   </li>
   <li>
     <a href="https://medium.com/@fahmisyahya1/bahasa-pemrograman-java-memulai-menggunakan-java-4218b70124d9">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
       Bahasa Pemrograman Java — Memulai menggunakan Java
     </a>
 </ul>
