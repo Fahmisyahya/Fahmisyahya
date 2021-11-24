@@ -1,7 +1,8 @@
 ## Hello, I am Fahmi and I am learning programming 👋
 <img src="https://img.shields.io/github/followers/Fahmisyahya.svg?style=social&label=Follow&maxAge=2592000">
+<img src="https://bn1303files.storage.live.com/y4mn3xl2nxf5hgFmP2lXJiz7kGhWg7ddIT_CHEyjamn_X0YcbrZTj4YEToBADHCsAOAa4-Kz34wuU7gm9GHhh_IikybmrC2a9V9O4uTXxBu_QfjKzMlw2pkqkfg4YdL1T5LXsjc3wy_cfyeMC7eHCtLFa8faZASMoPvV1CO8MFbtw9B8oiux9JqZzz_JF9oa7Gt?width=1024&height=341&cropmode=none">
 <p>
-  Hello, I understand and I'm still studying in informatics engineering. The programming languages ​​that I use and I learn include: 
+  Hello, I am <b>Fahmi</b> and I am still studying in informatics engineering. The programming languages that I use and I learn include : 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -17,6 +18,8 @@
   </p>
 </p>
 
+<img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
+
 ### Connect with Me
 <a href="https://facebook.com/Fahmisyahya1" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
@@ -28,32 +31,26 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+<img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
+
 ### Review my Post
 <a href="https://medium.com/@fahmisyahya1" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
+<img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
+
 ### The operating system I'm using
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
+<img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
+
+
 ### My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Fahmisyahya&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmisyahya&theme=blue-green">
 
-<hr>
+<img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
 
 <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
-<!--
-**Fahmisyahya/Fahmisyahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
