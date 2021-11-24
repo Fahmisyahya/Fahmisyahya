@@ -1,4 +1,5 @@
 ## Hello, I am Fahmi and I am learning programming 👋
+<img src="https://img.shields.io/github/followers/Fahmisyahya.svg?style=social&label=Follow&maxAge=2592000">
 <p>
   Hello, I understand and I'm still studying in informatics engineering. The programming languages ​​that I use and I learn include: 
   <p>
@@ -32,6 +33,16 @@
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
+### The operating system I'm using
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+### My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Fahmisyahya&theme=blue-green">
+
+<hr>
+
+<img src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 <!--
 **Fahmisyahya/Fahmisyahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
