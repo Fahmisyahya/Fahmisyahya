@@ -33,24 +33,10 @@
 <img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
 
 ### Review my Post
-<a href="https://medium.com/@fahmisyahya1" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+<a href="https://fahmisyahya.hashnode.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 </a>
 
-#### Latest medium post
-<ul>
-  <li>
-    <a href="https://medium.com/@fahmisyahya1/bahasa-pemrograman-java-hello-world-d48d06576598">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-      Bahasa Pemrograman Java — “Hello, World!”
-    </a>
-  </li>
-  <li>
-    <a href="https://medium.com/@fahmisyahya1/bahasa-pemrograman-java-memulai-menggunakan-java-4218b70124d9">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-      Bahasa Pemrograman Java — Memulai menggunakan Java
-    </a>
-</ul>
 
 <img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
 
