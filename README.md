@@ -61,6 +61,6 @@
 
 
 ### My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Fahmisyahya&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmisyahya&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api?wakatime=Fahmisyahya&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?wakatime=Fahmisyahya&theme=blue-green">
 
