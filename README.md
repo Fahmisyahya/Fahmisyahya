@@ -42,6 +42,7 @@
   </tr>
   <tr>
     <td><img src="https://www.sololearn.com/Certificate/1059-404343/jpg"></td>
+    <td><img src="https://www.sololearn.com/Certificate/1082-404343/jpg"></td>
   </tr>
 </table>
 <img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
