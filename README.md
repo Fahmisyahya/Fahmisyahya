@@ -1,7 +1,7 @@
 ## Hello, I am Fahmi and I am learning programming 👋
 <img src="https://bn1303files.storage.live.com/y4mn3xl2nxf5hgFmP2lXJiz7kGhWg7ddIT_CHEyjamn_X0YcbrZTj4YEToBADHCsAOAa4-Kz34wuU7gm9GHhh_IikybmrC2a9V9O4uTXxBu_QfjKzMlw2pkqkfg4YdL1T5LXsjc3wy_cfyeMC7eHCtLFa8faZASMoPvV1CO8MFbtw9B8oiux9JqZzz_JF9oa7Gt?width=1024&height=341&cropmode=none">
 <p>
-  Hello, I am <b>Fahmi</b> and I am still studying in informatics engineering. The programming languages that I use and I learn include : 
+  Hello, I am <b>Fahmi</b> and I am still studying in informatics engineering. The programming languages, frameworks and libraries that I use and I learn include : 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
