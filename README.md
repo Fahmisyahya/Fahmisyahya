@@ -85,7 +85,6 @@
 <img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
 
 ### Educations
-
 <p>
   <a href="https://www.freecodecamp.org/fahmisyahya" target="_blank">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green">
@@ -94,7 +93,7 @@
 
 <img src="https://bn1303files.storage.live.com/y4m8aJaOroLrwcc5c-IxRSVvpb60x_7oLW_kb-O_oFU2e5QpVAuswknfJ6KiI9tAMxXt8yhJxj0Vv5QwzkqCVze3nh6aSC9682G7iVSG63yCOSCPfna_01c_qz7pD1C828epoSf-GtyBkjb4w_Ma-RGqXTAcjZ4yuQ3pEEnuc2LIB39CDkqqrFtgHATi5zJOUKY?width=3000&height=8&cropmode=none">
 
-### Sololearn Ceritificate
+### Sololearn Ceritificates
 
 <table>
   <tr>
